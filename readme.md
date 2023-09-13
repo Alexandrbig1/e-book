@@ -13,6 +13,7 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Form & input styles
 - Testimonials
 - Contact page with Google Map
+- Contact form is live, that you can write the information, and everything will be received 
 
 ### Languages and Tools:
 <div align="center">  
